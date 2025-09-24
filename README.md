@@ -1,6 +1,6 @@
 # Edge Podium: F1 Fantasy
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/picshotai/generated-app-20250924-051318)
 
 Edge Podium is a retro-themed Formula 1 fantasy league application. Users can create and manage their own F1 fantasy team by selecting 5 drivers and 1 constructor while adhering to a $100M budget. The application calculates points based on real-world race results, allowing users to compete in public and private leagues. The entire user interface is designed with a nostalgic, early-internet 'Retro' aesthetic, featuring pixel art fonts, neon color palettes, glitch effects, and grainy textures to evoke the feeling of 90s web culture while delivering a modern, responsive user experience.
 
@@ -78,4 +78,4 @@ This project is designed for seamless deployment to Cloudflare's global network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/picshotai/generated-app-20250924-051318)
